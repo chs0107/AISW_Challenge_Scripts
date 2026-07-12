@@ -1,0 +1,81 @@
+[
+  {
+    "text": "ㅇㄱㄹㅇ 근데 ^문화존중^이라는 개떡같은걸로방패삼고 흉자들이나서서 쉴드쳐줄듯ㅋㅋㅋㅋ",
+    "is_discriminatory": true,
+    "target_gender": "여성"
+  },
+  {
+    "text": "젠더특보 이 따위 직책이 왜 필요함?",
+    "is_discriminatory": true,
+    "target_gender": "여성"
+  },
+  {
+    "text": "국짐당은 아주 심각하게 나쁜 놈들이고, 페미들은 아주 심각한 정신병자들이다.",
+    "is_discriminatory": true,
+    "target_gender": "여성"
+  },
+  {
+    "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 창년은 성범죄자 아닌줄 아나봄",
+    "is_discriminatory": true,
+    "target_gender": "여성"
+  },
+  {
+    "text": "인류 그 자체고.. 자지는 솔직히 요즘시대엔 멸종하는 게 맞다고 본다 이기야.",
+    "is_discriminatory": true,
+    "target_gender": "남성"
+  },
+  {
+    "text": "하여튼 다들 자지오패스다이기야",
+    "is_discriminatory": true,
+    "target_gender": "남성"
+  },
+  {
+    "text": "남자페미니스트는 없다. 페미니스트를 응원하는 남펜만 있을 뿐.",
+    "is_discriminatory": true,
+    "target_gender": "남성"
+  },
+  {
+    "text": "봊나 웃기노ㅋㅋㅋ여윽시 자지들은 벌레취급이 답이다이기야ㅋㅋㅋ",
+    "is_discriminatory": true,
+    "target_gender": "남성"
+  },
+  {
+    "text": "에미넴이 닥트드레좆물받이??갓미넴이 스눕독이랑 닥터드레 밟고 올라간지가언젠데",
+    "is_discriminatory": false,
+    "target_gender": null
+  },
+  {
+    "text": "영적지도자로써 선한영향력과 리더쉽으로 한국교회가 부흥되길 기도합니다",
+    "is_discriminatory": false,
+    "target_gender": null
+  },
+  {
+    "text": "그 때 까지 돈 많이 모아놓고 있겠노.",
+    "is_discriminatory": false,
+    "target_gender": null
+  },
+  {
+    "text": "여윽시 맘충년들 저런년들이랑 결혼한남자는 대체 얼마나 병신일까?",
+    "is_discriminatory": true,
+    "target_gender": "여성",
+    "note": "여성 멸칭(맘충년)과 남자 언급이 같이 나오지만, 실제 조롱 대상은 여성 쪽이다"
+  },
+  {
+    "text": "김치녀 김여사 아무렇지도 않게 쓴다고 지도 얘기하면서 한남은 답답하대 역시 자지는 머리가 너무 나쁘노",
+    "is_discriminatory": true,
+    "target_gender": "남성",
+    "note": "여성 멸칭(김치녀)이 인용되지만, 실제 조롱 대상(지적 능력 비하)은 남성 쪽이다"
+  },
+  {
+    "text": "으따 좋은 직업은 유리천장이 있고 노가다 택배상하차는 유리천장이 없당께~~~",
+    "is_discriminatory": true,
+    "target_gender": "여성",
+    "note": "멸칭 없이 냉소적 비유로 여성의 차별 주장을 조롱함"
+  },
+  {
+    "text": "여기 댓글 남자얘기 없고 고위직얘기뿐임. 그리고 남자성욕은 본능이다",
+    "is_discriminatory": true,
+    "target_gender": "남성",
+    "note": "멸칭 없이 본질주의적 고정관념으로 남성을 일반화함"
+  }
+]
